@@ -5,8 +5,6 @@
 <p align="center">
 
 
-
-- 🔭 I’m currently working on flutter ...
  
  📧 **Contact Me**  -->
 
